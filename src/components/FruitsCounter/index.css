@@ -1,0 +1,36 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: #ffd569;
+  background-size: cover;
+  height: 100vh;
+}
+.bg-container2 {
+  background-color: white;
+  padding: 60px;
+  margin: 30px;
+  margin-top: 30px;
+  border-radius: 25px;
+}
+.img {
+  height: 20vh;
+  width: 20vw;
+}
+.img-con {
+  display: flex;
+  flex-direction: row;
+}
+.imgD {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding-right: 80px;
+  align-self: center;
+}
+.btn {
+  cursor: pointer;
+  background-color: blue;
+}
+.mango {
+  color: #ffd569;
+}
